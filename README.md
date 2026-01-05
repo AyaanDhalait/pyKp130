@@ -17,8 +17,3 @@ It allows you to define experiments as code, simulate them over time, and collec
 This project focuses on **correct simulation structure**, not graphics.
 
 ---
-
-## Core Concept
-
-Each experiment follows this flow:
-
