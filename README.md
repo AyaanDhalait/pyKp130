@@ -1,4 +1,4 @@
-# pyKp130
+# Kp130
 
 **pyKp130** is a programmable virtual science and engineering laboratory built entirely in Python.
 
