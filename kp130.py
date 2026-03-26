@@ -126,6 +126,7 @@ class Kp130CLI:
 
 if __name__ == "__main__":
     import sys
+    print("Hello from Ayaan Dhalait")
     if len(sys.argv) < 2:
         print("Available experiments:", ", ".join(Kp130CLI.experiments.keys()))
     else:
